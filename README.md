@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color= #98bfda=40&center=true&vCenter=true&width=1000&lines=+NOVO+-+SISTEMA+DA+RESILIA)](https://git.io/typing-svg)
-
 
 Projeto individual do curso de Dev. Web FullStack do projeto Programadores Carioca - SENAC RJ & Resilia.
 
